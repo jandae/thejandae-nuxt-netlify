@@ -44,7 +44,7 @@ collections:
     folder: 'content/blog'
     create: true
     format: 'frontmatter'
-    slug: '{{fields.createdAt}}-{{slug}}'
+    slug: '{{slug}}'
     # editor:
     #   preview: true
     fields:

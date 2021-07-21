@@ -25,7 +25,7 @@ export default {
   async asyncData({ $content, params, error }) {
     let post
     try {
-      post = await $content('links', params.blog).fetch()
+      post = await $content('links', params.link).fetch()
     } catch (e) {
       error({ message: 'Link post not found' })
     }

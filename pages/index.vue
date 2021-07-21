@@ -1,8 +1,7 @@
 <template>
   <main>
-    <section class="self-center flex flex-col flex-1 items-center justify-center">
-      <h1 class="title text-center">Nuxt — Tailwind — Netlify CMS</h1>
-      <h2 class="subtitle text-center">Boilerplate</h2>
+    <section class="self-center flex flex-col items-center justify-center">
+      <img id="logo" src="~/assets/img/thejandae.svg" alt="thejandae" />
     </section>
 
     <section class="mt-8">
@@ -10,4 +9,9 @@
       <posts post-type="blog" :amount="1" />
     </section>
   </main>
-</template>
+</template> 
+<style scoped>
+#logo {
+  width: 80%;
+}
+</style>

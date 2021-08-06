@@ -7,9 +7,9 @@
       <li class="flex-1 ml-2">
         <nuxt-link class="btn block" to="/links">Links</nuxt-link>
       </li>
-      <li class="flex-1 ml-2">
+      <!-- <li class="flex-1 ml-2">
         <nuxt-link class="btn block" to="/projects">Projects</nuxt-link>
-      </li>
+      </li> -->
     </ul>
   </nav>
 </template>

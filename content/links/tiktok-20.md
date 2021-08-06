@@ -7,3 +7,9 @@ description: Replacing membrane keyboard to mechanical
 
 * Membrane Keyboard - Chicony KU-2971
 * Mechanical Keyboard - [Royal Kludge RK84](https://shopee.ph/product/453543298/10407403575?smtt=0.89058394-1628276832.5) (Gateron Red, White Backlight)
+
+
+
+## Related:
+
+<iframe src="https://www.youtube.com/embed/8UNtiU-87w8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

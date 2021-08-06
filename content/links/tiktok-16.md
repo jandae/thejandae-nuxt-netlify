@@ -15,8 +15,6 @@ description: DIY Panda Alcohol bottle
 * Wireless Mouse - Logitech M170
 * Wireless Charger - Mezone TWS B6 (Included)
 
+## Related:
 
-
-## Related: 
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uHDm_fKepuE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/uHDm_fKepuE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

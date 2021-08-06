@@ -22,6 +22,13 @@ export default {
    */
   head: {
     title: SITE_INFO.sitename || process.env.npm_package_name || '',
+    script: [
+      {
+        src: "https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3925356940316949",
+        async: true,
+        crossorigin: "anonymous"
+      }
+    ],
     meta: [
       { charset: 'utf-8' },
       { name: 'viewport', content: 'width=device-width, initial-scale=1' },
@@ -96,7 +103,7 @@ export default {
     /*
      ** You can extend webpack config here
      */
-    extend(config, ctx) {}
+    extend(config, ctx) { }
   },
   /*
    ** Custom additions configuration

@@ -14,8 +14,6 @@
   </nav>
 </template>
 
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3925356940316949"
-     crossorigin="anonymous"></script>
 <script>
 export default {
   name: 'Header',

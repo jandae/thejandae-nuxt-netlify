@@ -5,10 +5,8 @@ description: Vacuum Maintenance with me
 ---
 ## Items:
 
+* [Replacement filter and brushes (wrong ones)](https://shopee.ph/product/299393285/3368733791?smtt=0.89058394-1628293121.5)
 * Robot Vacuum - [Xiaomi Mijia 1C Robot Vacuum-Mop](https://shopee.ph/product/15287380/7243430366?smtt=0.89058394-1626265240.9)
-* Replacement filters and brushes (Wrong one)
-
-
 
 ## Related:
 

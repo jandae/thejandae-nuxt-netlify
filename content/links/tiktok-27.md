@@ -6,7 +6,8 @@ description: How I made my lighting better
 ## Items:
 
 * RGB Strip light - [WS2812B 30](https://shopee.ph/product/341931632/5767806837?smtt=0.89058394-1628294164.9)
-* DIY Controller - [Nodemcu unsoldered](https://shopee.ph/product/20469516/1369052661): cheaper but would not recommend, as it doesn’t work with the latest WLED
+* DIY Controller - [Nodemcu unsoldered](https://shopee.ph/product/20469516/1369052661): cheaper but would not recommend, as it doesn’t work with the latest WLED (Ver 8.6 and up)
+* [ESPHome](https://esphome.io) - easy setup with LED control support
 
 ## Related:
 

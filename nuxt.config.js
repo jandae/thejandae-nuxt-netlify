@@ -75,7 +75,9 @@ export default {
   /*
    ** Plugins to load before mounting the App
    */
-  plugins: ['~/plugins/vue-content-placeholders.js'],
+  plugins: [
+    '~/plugins/vue-content-placeholders.js'
+  ],
   /*
    ** Nuxt.js dev-modules
    */
@@ -83,7 +85,7 @@ export default {
   /*
    ** Nuxt.js modules
    */
-  modules: ['@nuxt/content', 'nuxt-purgecss'],
+  modules: ['@nuxt/content', 'nuxt-purgecss', '@nuxtjs/google-gtag'],
   /*
    ** Build configuration
    */
@@ -159,5 +161,17 @@ export default {
       ogHost: process.env.URL,
       ogImage: '/preview.jpg'
     }
+  },
+  'google-gtag': {
+    id: 'G-LTJG9B0CTQ',
+    config: {
+      anonymize_ip: true, // anonymize IP 
+      send_page_view: false, // might be necessary to avoid duplicated page track on page reload
+      // linker: {
+      //   domains: ['domain.com', 'domain.org'] 
+      // }
+    },
+    debug: true, // enable to track in dev mode
+    disableAutoPageTrack: false, // disable if you don't want to track each page route with router.afterEach(...).
   }
 }

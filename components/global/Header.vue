@@ -15,14 +15,6 @@
 </template>
 
 <script>
-import Vue from 'vue'
-import VueGtag from 'vue-gtag'
-
-Vue.use(VueGtag, {
-  config: { id: 'G-LTJG9B0CTQ' },
-  appName: 'thejandae_links_site',
-})
-
 export default {
   name: 'Header',
 }

@@ -3,10 +3,11 @@ createdAt: 2021-08-06T23:53:36.145Z
 title: Tiktok 24
 description: Tatami Chair
 ---
-## Items: 
+## Items:
 
 * [Tatami chair](https://shopee.ph/product/271143210/10009898709?smtt=0.89058394-1627049801.9)
-* RGB Strip light - [WS2812B 30](https://shopee.ph/product/341931632/5767806837?smtt=0.89058394-1628294164.9)
+
+
 
 ## Related:
 

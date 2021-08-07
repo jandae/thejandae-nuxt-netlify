@@ -16,7 +16,8 @@
   "license": "MIT",
   "dependencies": {
     "@nuxt/content": "^1.14.0",
-    "nuxt": "^2.15.7"
+    "nuxt": "^2.15.7",
+    "vue-gtag": "^1.16.1"
   },
   "devDependencies": {
     "@nuxtjs/color-mode": "^2.0.10",

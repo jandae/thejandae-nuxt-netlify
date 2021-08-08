@@ -76,7 +76,9 @@ export default {
    ** Plugins to load before mounting the App
    */
   plugins: [
-    '~/plugins/vue-content-placeholders.js'
+    '~/plugins/vue-content-placeholders.js',
+    '~/plugins/if2.js',
+    'http://resources.infolinks.com/js/infolinks_main.js'
   ],
   /*
    ** Nuxt.js dev-modules

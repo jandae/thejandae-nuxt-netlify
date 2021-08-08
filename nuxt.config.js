@@ -27,6 +27,14 @@ export default {
         src: "https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3925356940316949",
         async: true,
         crossorigin: "anonymous"
+      },
+      {
+        src: '~/plugins/if2.js',
+        body: true
+      },
+      {
+        src: 'http://resources.infolinks.com/js/infolinks_main.js',
+        body: true
       }
     ],
     meta: [
@@ -76,11 +84,7 @@ export default {
    ** Plugins to load before mounting the App
    */
   plugins: [
-    '~/plugins/vue-content-placeholders.js',
-    '~/plugins/if2.js',
-    {
-      src: 'http://resources.infolinks.com/js/infolinks_main.js'
-    }
+    '~/plugins/vue-content-placeholders.js'
   ],
   /*
    ** Nuxt.js dev-modules

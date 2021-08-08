@@ -78,7 +78,9 @@ export default {
   plugins: [
     '~/plugins/vue-content-placeholders.js',
     '~/plugins/if2.js',
-    'http://resources.infolinks.com/js/infolinks_main.js'
+    {
+      src: 'http://resources.infolinks.com/js/infolinks_main.js'
+    }
   ],
   /*
    ** Nuxt.js dev-modules

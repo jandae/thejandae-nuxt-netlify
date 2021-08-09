@@ -37,6 +37,10 @@
         target="_blank"
         >Facebook Gaming</a
       >
+
+      <a class="btn px-1 items-center justify-center" href="https://github.com/jandae" target="_blank"
+        >Github (Warning! Janky)</a
+      >
     </div>
 
     <section class="mt-8">

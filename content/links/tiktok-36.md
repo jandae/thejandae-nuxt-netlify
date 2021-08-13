@@ -7,3 +7,9 @@ description: Office chair wheels upgrade
 
 * [Wheels](https://shopee.ph/Replacement-HEAVY-DUTY-Office-Computer-Gaming-Chair-Caster-rollerblade-style-3-inch-Castor-wheel-5pc-i.236384746.8777080224) (PHP540)
 * [Chair](https://shopee.ph/Office-Chair-Adjustable-Height-360-Rotat-Mesh-Comfortable-and-Breathable-Home-Office-Furniture-Back-i.134940893.3311639472) (PHP1,748 with shipping)
+
+## Thoughts:
+
+Makes it more quiet especially on wooden floors. Installation easy and tool-less as it just snaps in securely (I thought it was a bolt). Makes it more smooth when sliding and also more quiet. The chair is still rattly though, maybe grease will help with it. 
+
+I’ll use the old wheels for my mic stand as I added weights to it which made it difficult to move.

@@ -7,6 +7,7 @@ description: Login to Windows 10 faster
 
 * Mechanical Keyboard - [Royal Kludge RK84](https://shopee.ph/product/453543298/10407403575?smtt=0.89058394-1628276832.5) (Gateron Red, White Backlight)
 * Touchscreen - Lenovo Flex 14
+* [Wrist rest](https://shopee.ph/product/41534744/9225409258?smtt=0.89058394-1628761345.9)
 * Monitor - [Specterpro Ultrawide 34UW100 34”](https://shopee.ph/product/77398075/3701157787?smtt=0.89058394-1628293799.5)
 * [Hammer Fidget Spinner](https://shopee.ph/product/108067059/7440537897?smtt=0.89058394-1628234099.9)
 * PC Fan (Back) - Tecwre 120mm Fan ARGB from Mirage 120

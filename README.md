@@ -1,5 +1,3 @@
-# 🏗️ Boilerplate for Nuxt, Tailwind & NetlifyCMS
-
 [![Netlify Status](https://api.netlify.com/api/v1/badges/13309a56-dd31-45c7-96bf-38f65eac3e38/deploy-status)](https://app.netlify.com/sites/distracted-hoover-7b89cc/deploys)
 
 

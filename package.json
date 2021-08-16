@@ -1,8 +1,8 @@
 {
   "name": "thejandae",
   "version": "2.1.0",
-  "description": "Nuxt-Tailwind-NetlifyCMS boilerplate",
-  "author": "Sven Parker <sven@svenparker.com> (https://svenparker.com)",
+  "description": "thejandae Links and Details Site",
+  "author": "thejandae <thejandae@gmail.com> (https://thejandae.xyz)",
   "scripts": {
     "dev": "nuxt",
     "build": "nuxt build",

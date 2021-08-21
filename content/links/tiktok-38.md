@@ -19,4 +19,8 @@ description: Audacity dark mode
 3. Theme: (Choose) Dark
 4. Click OK
 
-> I just found this out and made Audacity look much better imo and saves the eyes
+## Related:
+
+<iframe src="https://www.youtube.com/embed/SjEXnLf8wWk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+> I just found this out and made Audacity look much better imo and saves the eyes. Also why do I always think that the preferences is in File?

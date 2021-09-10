@@ -1,9 +1,24 @@
 @layer components {
+  .ribbon {
+    position: absolute;
+    top: 0;
+    right: 0;
+    width: 130px;
+    height: 22px;
+    margin-top: 7px;
+    background: var(--color-gray);
+    color: var(--color-primary-100);
+  }
+
   .btn {
     @apply text-center font-semibold rounded py-2 px-4 border border-primary-400 text-primary-400 bg-gray-900;
     &:hover {
       @apply border-primary-300 bg-primary-800 text-white;
-    }
+    }   
+    
+    &.btn-ribbon {
+      padding-top: 2em;
+    } 
 
     &.btn--active {
       @apply text-white bg-primary border-primary;

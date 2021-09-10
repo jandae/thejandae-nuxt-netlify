@@ -15,6 +15,8 @@
         <h1 class="">{{ post.description }}</h1>
         <p class="mt-1 mb-4 text-primary-600 dark:text-primary-400">{{ post.title }}</p>
         <nuxt-content :document="post" class="article-content" />
+
+        <socials />
       </article>
     </section>
   </main>

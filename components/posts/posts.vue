@@ -1,5 +1,5 @@
 <template>
-  <ul v-if="posts.length > 0" class="cards">
+  <ul v-if="posts.length > 0" class="cards inline-grid grid-cols-2 gap-2">
     <li v-for="(post, index) in posts" :key="index">
       <nuxt-link :to="`${postType}/${post.slug}`" class="card card--clickable">
         <template v-if="postType === 'projects'">
@@ -17,7 +17,7 @@
           <span class="w-full">
             <span class="flex justify-between align-baseline">
               <h3 class="card-title">{{ post.title }}</h3>
-              <h6
+              <!-- <h6
                 v-if="post.createdAt"
                 class="
                   self-start
@@ -33,9 +33,9 @@
                 "
               >
                 {{ formatDate(post.createdAt) }}
-              </h6>
+              </h6> -->
             </span>
-            <p class="mt-2">{{ post.description }}</p>
+            <p class="mt-1 truncate overflow-ellipsis">{{ post.description }}</p>
           </span>
         </template>
       </nuxt-link>

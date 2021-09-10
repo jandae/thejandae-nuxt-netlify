@@ -6,7 +6,7 @@
 
     <socials></socials>
 
-    <section class="mt-8">
+    <section class="mt-8 mx-auto">
       <h3 class="text-primary-600 dark:text-primary-400 max-w-5xl mx-auto">Latest posts</h3>
       <posts post-type="links" :amount="20" />
     </section>

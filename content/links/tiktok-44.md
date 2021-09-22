@@ -5,7 +5,7 @@ description: Desk extension
 ---
 ## Items:
 
-* [Keyboard drawer](https://c.lazada.com.ph/t/c.0I39wB?url=https%3A%2F%2Fwww.lazada.com.ph%2Fproducts%2Fkeyboard-tray-with-slide-i1893349593-s8033362912.html&sub_aff_id=site)
+* Keyboard Drawer ([Shopee](https://shp.ee/kjx6v5j), [Lazada)](https://c.lazada.com.ph/t/c.0I39wB?url=https%3A%2F%2Fwww.lazada.com.ph%2Fproducts%2Fkeyboard-tray-with-slide-i1893349593-s8033362912.html&sub_aff_id=site)
 * Keyboard - [Royal Kludge RK84](https://shp.ee/j634u2t) (Gateron Red, White Backlight)
 * [Wrist Rest](https://shp.ee/psc97gt)
 * Office Chair ([Shopee](https://shp.ee/igqnu8t), [Lazada](https://c.lazada.com.ph/t/c.0rSHfP?url=https%3A%2F%2Fwww.lazada.com.ph%2Fproducts%2Fwwwcom-office-chair-mesh-computer-chair-with-lumbar-support-armrest-mid-back-rolling-swivel-adjustable-i1653830630-s7107774799.html&sub_aff_id=site))

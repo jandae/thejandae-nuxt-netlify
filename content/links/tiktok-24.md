@@ -5,9 +5,7 @@ description: Tatami Chair
 ---
 ## Items:
 
-* [Tatami chair](https://shopee.ph/product/271143210/10009898709?smtt=0.89058394-1627049801.9)
-
-
+* [Tatami chair](https://shp.ee/n4k5ue3)
 
 ## Related:
 

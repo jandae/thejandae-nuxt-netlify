@@ -5,10 +5,8 @@ description: Cordless Drill
 ---
 ## Items:
 
-* [Cordless Drill](https://shopee.ph/Cordless-Drill-Screw-Driver-Electric-Drill-3-8-Inch-i.49844709.6284346393)
+* [Cordless Drill](https://shp.ee/ynt7cev)
 * [Cordless Drill with accessories](https://c.lazada.com.ph/t/c.0ISa4O?url=https%3A%2F%2Fwww.lazada.com.ph%2Fproducts%2Fcordless-impact-drill-multifunction-brushless-electric-drill-driver-set-original-48vf-double-speed-rechargeable-impact-drill-with-1-li-ion-batteries-and-torque-adjustment-screwdriver-power-toolsdrilling-tools-set-salefree-full-set-of-accessories-i1587354756-s7643229024.html&sub_aff_id=site) (Different model but similar)
-
-
 
 ## Thoughts:
 

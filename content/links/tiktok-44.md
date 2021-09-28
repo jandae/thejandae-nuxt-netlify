@@ -11,6 +11,8 @@ description: Desk extension
 * Office Chair ([Shopee](https://shp.ee/igqnu8t), [Lazada](https://c.lazada.com.ph/t/c.0rSHfP?url=https%3A%2F%2Fwww.lazada.com.ph%2Fproducts%2Fwwwcom-office-chair-mesh-computer-chair-with-lumbar-support-armrest-mid-back-rolling-swivel-adjustable-i1653830630-s7107774799.html&sub_aff_id=site))
 * Monitor Mount - ([Shopee](https://shp.ee/pgu7wxj), [Lazada)](https://c.lazada.com.ph/t/c.0I3zvK?url=https%3A%2F%2Fwww.lazada.com.ph%2Fproducts%2F14-42-cantilever-type-extend-swivel-and-revolve-monitor-tv-wall-mount-bracket-14-19-24-32-40-42-cp301-i261889054-s361814195.html&sub_aff_id=site)
 
+### [Drawer wood upgrade](https://openinapp.co/url/b43a3)
+
 ## Thoughts:
 
 My room and desk space is small so this solved the problem for me. Installation was not that bad but I recommend having someone to hold it while you mark screw holes and mounting. It even has a bonus snack compartment 😂. It’s able to hold the weight of my arms while typing and overall seems sturdy enough. It could be wider for the mouse so I decided to replace it with wood soon, might look better (hopefully)

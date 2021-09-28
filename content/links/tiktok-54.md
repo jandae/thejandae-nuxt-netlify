@@ -8,3 +8,5 @@ description: Headphone holder
 * [Pink headphones](https://shp.ee/ehbd2km)
 
 > Learned a new word from the song used: [katchi](https://www.urbandictionary.com/define.php?term=katchi)
+
+### [Full extended youtube video](https://openinapp.co/youtube/minimal-wall-mount-headphone) with details

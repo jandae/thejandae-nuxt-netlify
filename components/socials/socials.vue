@@ -2,7 +2,7 @@
   <div class="inline-grid grid-cols-2 gap-4 mt-4 mx-auto">
     <a
       class="btn px-1 items-center justify-center flex flex-col"
-      href="https://www.youtube.com/channel/UCS4bNn83QPhGftBoGmKf7ew?sub_confirmation=1"
+      href="https://openinapp.co/youtube/thejandae"
       target="_blank"
       >Tech Youtube
 
@@ -18,7 +18,7 @@
     </a>
     <a
       class="btn px-1 items-center justify-center flex flex-col"
-      href="https://www.youtube.com/channel/UCOmgOC5nvjRiobtlFnoyZKQ?sub_confirmation=1"
+      href="https://openinapp.co/youtube/thejandae-build-log"
       target="_blank"
       >DIY Youtube
 
@@ -30,20 +30,17 @@
         data-count="default"
       ></div>
     </a>
-    <a class="btn px-1 items-center justify-center flex" href="https://www.twitch.tv/thejandae" target="_blank"
+    <a class="btn px-1 items-center justify-center flex" href="https://openinapp.co/url/95fe2" target="_blank"
       >Twitch</a
     >
-    <a class="btn px-1 items-center justify-center flex" href="https://www.twitch.tv/thebedgaming" target="_blank"
+    <a class="btn px-1 items-center justify-center flex" href="https://openinapp.co/url/87a05" target="_blank"
       >Gaming Twitch</a
     >
-    <a class="btn px-1 items-center justify-center flex" href="https://www.facebook.com/thejandae.page" target="_blank"
+    <a class="btn px-1 items-center justify-center flex" href="https://openinapp.co/facebook/a9608" target="_blank"
       >Facebook</a
     >
 
-    <a
-      class="btn px-1 items-center justify-center flex"
-      href="https://www.facebook.com/gaming/thebedgaming"
-      target="_blank"
+    <a class="btn px-1 items-center justify-center flex" href="https://openinapp.co/facebook/41f0c" target="_blank"
       >Facebook Gaming</a
     >
 
@@ -57,7 +54,7 @@
     </a>
     <a
       class="btn px-1 items-center justify-center align-middle flex"
-      href="https://www.tiktok.com/@thejandae?lang=en&is_copy_url=1&is_from_webapp=v1"
+      href="https://openinapp.co/url/ab4bf"
       target="_blank"
     >
       <span class="justify-center align-middle">Tiktok</span>

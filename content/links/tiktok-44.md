@@ -5,11 +5,11 @@ description: Desk extension
 ---
 ## Items:
 
-* Keyboard Drawer ([Shopee](https://shp.ee/kjx6v5j), [Lazada)](https://c.lazada.com.ph/t/c.0I39wB?url=https%3A%2F%2Fwww.lazada.com.ph%2Fproducts%2Fkeyboard-tray-with-slide-i1893349593-s8033362912.html&sub_aff_id=site)
-* Keyboard - [Royal Kludge RK84](https://shp.ee/j634u2t) (Gateron Red, White Backlight)
+* [Keyboard Drawer](https://shp.ee/nepj82t)
+* Keyboard - [Royal Kludge RK84](https://shp.ee/f7ygcgt) (Gateron Red, White Backlight)
 * [Wrist Rest](https://shp.ee/psc97gt)
-* Office Chair ([Shopee](https://shp.ee/igqnu8t), [Lazada](https://c.lazada.com.ph/t/c.0rSHfP?url=https%3A%2F%2Fwww.lazada.com.ph%2Fproducts%2Fwwwcom-office-chair-mesh-computer-chair-with-lumbar-support-armrest-mid-back-rolling-swivel-adjustable-i1653830630-s7107774799.html&sub_aff_id=site))
-* Monitor Mount - ([Shopee](https://shp.ee/pgu7wxj), [Lazada)](https://c.lazada.com.ph/t/c.0I3zvK?url=https%3A%2F%2Fwww.lazada.com.ph%2Fproducts%2F14-42-cantilever-type-extend-swivel-and-revolve-monitor-tv-wall-mount-bracket-14-19-24-32-40-42-cp301-i261889054-s361814195.html&sub_aff_id=site)
+* [Office Chair](https://shp.ee/t7bwrtt)
+* [Monitor Mount](https://shp.ee/jjevyit)
 
 ### [Drawer wood upgrade](https://openinapp.co/url/b43a3)
 

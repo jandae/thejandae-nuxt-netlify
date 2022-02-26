@@ -5,8 +5,8 @@ description: DIY Panda Alcohol bottle
 ---
 ## Items:
 
-* [Spray Paint with Handle](https://shopee.ph/product/11645486/1260036247?smtt=0.89058394-1626682781.9) 
-* [Tiny Drawer](https://shopee.ph/product/52480349/4891265160?smtt=0.89058394-1628275022.5)
+* [Spray Paint with Handle](https://shp.ee/78d23ht) 
+* [Tiny Drawer](https://shp.ee/cyb4jht)
 * Custom Oni Mask
 * DS4 Controller
 * Headphones - Tsumbay TS-BH17

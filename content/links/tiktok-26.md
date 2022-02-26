@@ -5,9 +5,9 @@ description: Buri Blinds
 ---
 ## Items:
 
-* [Buri Blinds](https://shopee.ph/product/322698890/5275832256?smtt=0.89058394-1628294671.5)
-* RGB Strip light - [WS2812B 30](https://shopee.ph/product/341931632/5767806837?smtt=0.89058394-1628294164.9)
+* [Buri Blinds](https://shp.ee/ac93zit)
+* RGB Strip light - [WS2812B 30](https://shp.ee/fv96hit)
 
-## Related: 
+## Related:
 
 <iframe src="https://www.youtube.com/embed/Bi7hiEsK2GM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

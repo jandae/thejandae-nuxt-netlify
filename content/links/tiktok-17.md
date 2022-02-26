@@ -7,6 +7,6 @@ Items:
 
 * [Iron Throne STL](https://www.thingiverse.com/thing:2782117)
 * 3D Printer - Ender 3
-* Filament - Esun PLA+ Black
-* Spray Paint - [Bosny Flat Black](https://shopee.ph/product/11645486/1260036247?smtt=0.89058394-1626682781.9)
+* Filament - [Esun PLA+ Black](https://shp.ee/2zcqzgt)
+* Spray Paint - [Bosny Flat Black](https://shp.ee/78d23ht)
 * Phone - Mi Mix 2S

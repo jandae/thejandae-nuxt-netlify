@@ -6,9 +6,9 @@ description: "Touchscreen laptop from 2014: Lenovo Flex 14 quick review"
 ## Items:
 
 * Laptop - Lenovo Flex 14 (2014)
-* Monitor - [Specterpro Ultrawide 34UW100 34](https://shopee.ph/product/77398075/3701157787?smtt=0.89058394-1628293799.5)
-* Mechanical Keyboard - [Royal Kludge RK84](https://shopee.ph/product/453543298/10407403575?smtt=0.89058394-1628276832.5) (Gateron Red, White Backlight)
-* [Wrist rest](https://shopee.ph/product/41534744/9225409258?smtt=0.89058394-1628761345.9)
+* Monitor - [Specterpro Ultrawide 34UW100 34](https://shp.ee/puzxe6t)
+* Mechanical Keyboard - [Royal Kludge RK84](https://shp.ee/f7ygcgt) (Gateron Red, White Backlight)
+* [Wrist rest](https://shp.ee/wjwet7t)
 
 ## Specs:
 

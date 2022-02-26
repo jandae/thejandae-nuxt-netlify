@@ -5,10 +5,10 @@ description: Daily VR Workout routine
 ---
 ## Items:
 
-* [Kinect to USB Adapter ](https://shopee.ph/product/116320873/1824547498?smtt=0.89058394-1628183851.9)- Very important to use with PC
+* [Kinect to USB Adapter ](https://shp.ee/v2dw7pt)- Very important to use with PC
 * Kinect for Xbox 360 (Bought second hand by brother)
-* [USB Extension](https://shopee.ph/product/135119713/2546874301?smtt=0.89058394-1628184106.5) – (PHP 342) Needed to connect Kinect to PC in the bedroom from the living room
-* [10 meter HDMI cable](https://shopee.ph/product/92372854/1954164035?smtt=0.89058394-1628184194.5) (PHP 249)
+* [USB Extension](https://shp.ee/fpz7uft) – (PHP 342) Needed to connect Kinect to PC in the bedroom from the living room
+* [10 meter HDMI cable](https://shp.ee/8uqf65t) (PHP 249)
 * Controller - Mocute-052 (PHP 200)
 * VR software - [Driver4VR](https://www.driver4vr.com/) (13,99 €/PHP 828.26)
 * [Beat Saber](https://store.steampowered.com/app/620980/Beat_Saber/) (PHP 649.95)

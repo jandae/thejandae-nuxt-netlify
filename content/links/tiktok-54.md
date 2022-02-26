@@ -5,7 +5,7 @@ description: Headphone holder
 ---
 ## Items:
 
-* [Pink headphones](https://shp.ee/ehbd2km)
+* [Pink headphones](https://shp.ee/tpzpsnt)
 
 > Learned a new word from the song used: [katchi](https://www.urbandictionary.com/define.php?term=katchi)
 

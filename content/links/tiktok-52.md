@@ -5,4 +5,4 @@ description: Weird Keyboard Mod
 ---
 ## Items:
 
-* [Toggle Switch](https://shp.ee/b8n33b5)
+* [Toggle Switch](https://shp.ee/mrd8vkt)

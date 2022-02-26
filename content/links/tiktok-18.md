@@ -5,9 +5,7 @@ description: "Xiaomi Robot Vacuum Mop "
 ---
 ## Items:
 
-* Robot Vacuum - [Xiaomi Mijia 1C Robot Vacuum-Mop](https://shopee.ph/product/15287380/7243430366?smtt=0.89058394-1626265240.9)[](https://shopee.ph/product/15287380/7243430366?smtt=0.89058394-1626265240.9)
-
-
+* Robot Vacuum - [Xiaomi Mijia 1C Robot Vacuum-Mop](https://shp.ee/d79t7et)[](https://shopee.ph/product/15287380/7243430366?smtt=0.89058394-1626265240.9)
 
 ## Related:
 

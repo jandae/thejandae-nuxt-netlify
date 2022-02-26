@@ -5,7 +5,7 @@ description: Tatami Chair
 ---
 ## Items:
 
-* [Tatami chair](https://shp.ee/n4k5ue3)
+* [Tatami chair](https://shp.ee/5uxcfut)
 
 ## Related:
 

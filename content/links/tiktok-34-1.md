@@ -10,6 +10,6 @@ description: Fit more bookmarks in Chrome
 
 ## Items:
 
-* Mechanical Keyboard - [Royal Kludge RK84](https://shopee.ph/product/453543298/10407403575?smtt=0.89058394-1628276832.5) (Gateron Red, White Backlight)
-* Monitor - [Specterpro Ultrawide 34UW100 34”](https://shopee.ph/product/77398075/3701157787?smtt=0.89058394-1628293799.5)
-* [Hammer Fidget Spinner](https://shopee.ph/product/108067059/7440537897?smtt=0.89058394-1628234099.9)
+* Mechanical Keyboard - [Royal Kludge RK84](https://shp.ee/f7ygcgt) (Gateron Red, White Backlight)
+* Monitor - [Specterpro Ultrawide 34UW100 34”](https://shp.ee/puzxe6t)
+* [Hammer Fidget Spinner](https://shp.ee/h96qhpt)

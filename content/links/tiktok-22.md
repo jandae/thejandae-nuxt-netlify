@@ -5,8 +5,8 @@ description: Vacuum Maintenance with me
 ---
 ## Items:
 
-* [Replacement filter and brushes (wrong ones)](https://shp.ee/k3r4zf3)
-* Robot Vacuum: Xiaomi Mijia 1C Robot Vacuum-Mop[](https://c.lazada.com.ph/t/c.0rSvYZ?url=https%3A%2F%2Fwww.lazada.com.ph%2Fproducts%2Fxiaomi-1c-robot-vacuum-mop-smart-path-planning-2500pa-app-control-sweep-and-mop-robotic-vacuum-cleaner-modelstytj01zhm-i994858027-s3299112672.html&sub_aff_id=site) - ([Shopee, ](https://shp.ee/g9j2tat)[Lazada)](https://c.lazada.com.ph/t/c.0rSvYZ?url=https%3A%2F%2Fwww.lazada.com.ph%2Fproducts%2Fxiaomi-1c-robot-vacuum-mop-smart-path-planning-2500pa-app-control-sweep-and-mop-robotic-vacuum-cleaner-modelstytj01zhm-i994858027-s3299112672.html&sub_aff_id=site)
+* [Replacement filter and brushes (wrong ones)](https://shp.ee/chwnc4t)
+* [Robot Vacuum: Xiaomi Mijia 1C Robot Vacuum-Mop](https://shp.ee/x36emgt)[](https://c.lazada.com.ph/t/c.0rSvYZ?url=https%3A%2F%2Fwww.lazada.com.ph%2Fproducts%2Fxiaomi-1c-robot-vacuum-mop-smart-path-planning-2500pa-app-control-sweep-and-mop-robotic-vacuum-cleaner-modelstytj01zhm-i994858027-s3299112672.html&sub_aff_id=site)
 
 ## Related:
 
